@@ -36,4 +36,5 @@ const Button = styled.button`
     font-size: 1.3rem;
     color: #ebe7ff;
   }
+  sample:#ebe7ff
 `;
